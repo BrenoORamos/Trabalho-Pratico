@@ -7,5 +7,5 @@ uma api sobr covid-19 aonde exibi:
  * Mortes por COVID - Região
 
 # Link do Projeto Hospedado
- * https://breno-ramos-dos-santos.github.io/AwesomeProject/
+ * https://breno-ramos-dos-santos.github.io/Trabalho-Pratico/
 
