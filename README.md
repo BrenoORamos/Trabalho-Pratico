@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Trabalho-Pratico
-# Trabalho-pratico-Estrutura-de-dados-FILA-
-=======
+
 # Cantina Fatec
 Projeto Pratico da materia de Estrutura de dados  do 3° semestre do curso de Analise e desenvolvimento de sitemas. 
 Esté projeto tivemos como desafio Representar e aplicar uma das seguinte estrutura de dados: pilha, fila, grafo, arvore binaria.
