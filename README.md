@@ -19,5 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 # Integrantes
 - Breno Ramos
 - José Claudio
-- Valéria Souza
+- Jesse da Silva
+- Valéria Sousa
 - Thifany Prates
+  
