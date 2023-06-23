@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Bootstrap
 
 # Link do Projeto Hospedado
- * [Projeto](https://breno-ramos-dos-santos.github.io/Trabalho-Pratico/)
+ * [Projeto](https://brenooramos.github.io/Trabalho-Pratico/)
 
 # Integrantes
 - Breno Ramos
