@@ -10,5 +10,5 @@ a ter uma maior organização nas filas e pedidos. Utilizando:
  * JavaScript: Aonde montamos todas funções de fila, gereção de senhas, adicionar pedidos, atender pedios , reiniciar fila e verificar se a fila esta vazia
 
 # Link do Projeto Hospedado
- * [Projeto]https://breno-ramos-dos-santos.github.io/Trabalho-Pratico/
+ * [Projeto](https://breno-ramos-dos-santos.github.io/Trabalho-Pratico/)
 
