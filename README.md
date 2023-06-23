@@ -12,5 +12,3 @@ a ter uma maior organização nas filas e pedidos. Utilizando:
 # Link do Projeto Hospedado
  * https://breno-ramos-dos-santos.github.io/Trabalho-Pratico/
 
->>>>>>> ec78924a2964b59a6ca1af81bf4d1c6f421125bb
-# Trabalho-pratico-Estrutura-de-dados-FILA-
