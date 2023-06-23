@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CantinaFatec2
-=======
 
 # Cantina Fatec
 Projeto Pratico da materia de Estrutura de dados  do 3° semestre do curso de Analise e desenvolvimento de sitemas. 
@@ -13,6 +10,5 @@ a ter uma maior organização nas filas e pedidos. Utilizando:
  * JavaScript: Aonde montamos todas funções de fila, gereção de senhas, adicionar pedidos, atender pedios , reiniciar fila e verificar se a fila esta vazia
 
 # Link do Projeto Hospedado
- * https://breno-ramos-dos-santos.github.io/Trabalho-Pratico/
+ * [Projeto]https://breno-ramos-dos-santos.github.io/Trabalho-Pratico/
 
->>>>>>> ff20bd55c403a53c9db53bcb2eb1940432710aba
